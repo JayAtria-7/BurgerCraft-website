@@ -1,0 +1,82 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Build Files
+dist/
+build/
+*.min.js
+*.min.css
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Package Manager
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+
+# Image Backups (optional - comment out if you want to track originals)
+# *.psd
+# *.ai
+
+# Test Coverage
+coverage/
+.nyc_output/
+
+# Optional: Ignore large image files if you want to use Git LFS
+# *.jpg
+# *.jpeg
+# *.png
+# *.gif
+# *.svg
